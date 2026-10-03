@@ -13,7 +13,7 @@ Nessa primeira atividade, eu participei de uma apresentação pessoal em equipe.
 
 # Graficos com dados abertos da ANTT
 <img width="1030" height="669" alt="image" src="https://github.com/user-attachments/assets/510bba96-64bb-46d1-96d1-8bcf78782843" />
-
+[**Acessar planilha utilizada na atividade**](./operador_transporte_multimodal_joaopedro.xlsx)
 Durante esta atividade, tive a oportunidade de trabalhar com uma base de dados disponibilizada pela ANTT e utilizar o Excel para organizar e analisar as informações. Ao longo do processo, desenvolvi tabelas, gráficos e algumas análises que ajudaram a visualizar melhor os dados e identificar informações importantes presentes na planilha.
 
 A realização dessa atividade também contribuiu para meu aprendizado sobre tratamento e interpretação de dados, mostrando na prática como uma grande quantidade de informações pode ser organizada de maneira mais clara. Além disso, o uso dos gráficos facilitou a compreensão dos resultados e tornou a apresentação das informações mais objetiva.
