@@ -9,6 +9,7 @@ Trabalho de informática aplicada a logística
 
 ## apresentação pessoal em equipe 
 <img width="1210" height="677" alt="image" src="https://github.com/user-attachments/assets/e7f6509f-11d4-4e9e-bfa8-1fcfb476bd86" />
+Nessa primeira atividade, eu participei de uma apresentação pessoal em equipe. Foi uma atividade mais simples, mas que ajudou bastante no desenvolvimento da comunicação, organização e trabalho em grupo.
 
 # Graficos com dados abertos da ANTT
 <img width="1030" height="669" alt="image" src="https://github.com/user-attachments/assets/510bba96-64bb-46d1-96d1-8bcf78782843" />
