@@ -2,7 +2,7 @@
 Trabalho de informática aplicada a logística 
 ## apresentação pessoal em equipe 
 <img width="1210" height="677" alt="image" src="https://github.com/user-attachments/assets/e7f6509f-11d4-4e9e-bfa8-1fcfb476bd86" />
-## Graficos com dados abertos da ANTT
+# Graficos com dados abertos da ANTT
 <img width="1316" height="738" alt="image" src="https://github.com/user-attachments/assets/3adbeb1e-d898-4e99-89e1-b7e729c2bbd8" />
 Durante esta atividade, tive a oportunidade de trabalhar com uma base de dados disponibilizada pela ANTT e utilizar o Excel para organizar e analisar as informações. Ao longo do processo, desenvolvi tabelas, gráficos e algumas análises que ajudaram a visualizar melhor os dados e identificar informações importantes presentes na planilha.
 
