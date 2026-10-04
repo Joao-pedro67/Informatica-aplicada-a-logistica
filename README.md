@@ -23,6 +23,10 @@ A realização dessa atividade também contribuiu para meu aprendizado sobre tra
 Esse trabalho serviu como uma experiência inicial na área de análise de dados e ajudou a desenvolver conhecimentos que poderão ser utilizados nas próximas atividades, principalmente na criação de análises mais completas e na utilização de ferramentas como o Power BI.
 
 
+## Graficos e perguntas com os dados abertos de São paulo
+<img width="1304" height="594" alt="image" src="https://github.com/user-attachments/assets/86597d85-7cf2-4156-baa7-a75149d0b174" />
+
+
 
 
 
