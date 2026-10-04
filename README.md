@@ -27,7 +27,7 @@ Esse trabalho serviu como uma experiência inicial na área de análise de dados
 <img width="1304" height="594" alt="image" src="https://github.com/user-attachments/assets/86597d85-7cf2-4156-baa7-a75149d0b174" />
 [**Acessar planilha utilizada na atividade**](./codigos_municipios_regioes_joaopedro.xlsx)
 
-nesta atividade, foram analisados dados dos municípios do estado de são paulo para criar perguntas e comparações que podem ser reproduzidas no power bi. a proposta foi organizar as informações em diferentes análises, utilizando quantidade de municípios, regiões, drs e área territorial.
+Nesta atividade, foram analisados dados dos municípios do estado de são paulo para criar perguntas e comparações que podem ser reproduzidas no power bi. a proposta foi organizar as informações em diferentes análises, utilizando quantidade de municípios, regiões, drs e área territorial.
 
 
 
