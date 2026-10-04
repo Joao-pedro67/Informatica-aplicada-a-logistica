@@ -25,6 +25,7 @@ Esse trabalho serviu como uma experiência inicial na área de análise de dados
 
 ## Graficos e perguntas com os dados abertos de São paulo
 <img width="1304" height="594" alt="image" src="https://github.com/user-attachments/assets/86597d85-7cf2-4156-baa7-a75149d0b174" />
+[**Acessar planilha utilizada na atividade**](./codigos_municipios_regioes_joaopedro.xlsx)
 
 
 
