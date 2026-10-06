@@ -30,6 +30,16 @@ Esse trabalho serviu como uma experiência inicial na área de análise de dados
 
 Nesta atividade, foram analisados dados dos municípios do estado de são paulo para criar perguntas e comparações que podem ser reproduzidas no power bi. a proposta foi organizar as informações em diferentes análises, utilizando quantidade de municípios, regiões, drs e área territorial.
 
+# Elaboração de graficos no Power BI com dados da ANTT
+<img width="1162" height="740" alt="image" src="https://github.com/user-attachments/assets/11353ab2-bbd4-4b0c-9129-9ac0889e671f" />
+
+[**Acessar planilha utilizada na atividade**] ( 
+
+Após finalizar o trabalho com os dados da ANTT no Excel, passei a utilizar essa mesma base no Power BI.
+Durante essa atividade, comecei a explorar novas formas de apresentar os dados, utilizando gráficos e recursos interativos para facilitar a visualização das informações. Também pude conhecer melhor o processo de criação e organização de relatórios na plataforma.
+Essa etapa foi importante para perceber as diferenças entre o Excel e o Power BI. Enquanto o Excel permite organizar e analisar os dados de forma prática, o Power BI oferece mais recursos para criar visualizações dinâmicas e interativas, tornando a interpretação dos resultados mais simples e eficiente.
+
+
 
 
 
