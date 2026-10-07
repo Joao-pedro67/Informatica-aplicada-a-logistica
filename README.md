@@ -39,6 +39,18 @@ Após finalizar o trabalho com os dados da ANTT no Excel, passei a utilizar essa
 Durante essa atividade, comecei a explorar novas formas de apresentar os dados, utilizando gráficos e recursos interativos para facilitar a visualização das informações. Também pude conhecer melhor o processo de criação e organização de relatórios na plataforma.
 Essa etapa foi importante para perceber as diferenças entre o Excel e o Power BI. Enquanto o Excel permite organizar e analisar os dados de forma prática, o Power BI oferece mais recursos para criar visualizações dinâmicas e interativas, tornando a interpretação dos resultados mais simples e eficiente.
 
+## Elaboração de gráficos no Power BI com os dados dos municipios de são Paulo
+
+<img width="1160" height="650" alt="image" src="https://github.com/user-attachments/assets/cdd5849b-fe24-4f53-9b78-054332999bd5" />
+
+Na última atividade, eu utilizei  a base de dados dos municipios de São Paulo , mas dessa vez trabalhei diretamente no Power BI.
+
+Diferente da atividade que eu tinha feito antes no Excel, nessa etapa eu criei os gráficos primeiro e, a partir deles, fui elaborando perguntas que poderiam ser respondidas com as informações apresentadas.
+
+Essa atividade foi importante porque reuniu várias coisas que eu já tinha aprendido nas atividades anteriores, como análise de dados, criação de perguntas, utilização de gráficos e interpretação das informações.
+
+No final, consegui perceber melhor a evolução entre trabalhar com uma planilha simples no Excel e depois transformar esses mesmos dados em gráficos e relatórios mais interativos no Power BI.
+
 
 
 
