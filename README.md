@@ -2,10 +2,10 @@
 Trabalho de informática aplicada a logística 
 
 ## Índice
-* [**Apresentação pessoal em equipe**]
-* [**Elaboração de graficos e 
-*
-*
+* [**Apresentação pessoal em equipe**](https://canva.link/yl7i82vbhnjg067)
+* [**Elaboração de graficos e tabelas com base nos dados da ANTT**](./operador_transporte_multimodal_joaopedro.xlsx)
+* [**Analise e elaboração de perguntas com os dados dos municipios de SP**](https://centropaulasouzamy.sharepoint.com/personal/joao_souza253_aluno_cps_sp_gov_br/Documents/Aplicativos/Microsoft Power Query/Uploaded Files/codigos_municipios_regioes_joaopedro (1).xlsx)
+* [**Elaboração de Graficos no Power BI**] 
 
 ## apresentação pessoal em equipe 
 <img width="1210" height="677" alt="image" src="https://github.com/user-attachments/assets/e7f6509f-11d4-4e9e-bfa8-1fcfb476bd86" />
