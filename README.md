@@ -69,7 +69,9 @@ O modelo de regressão linear não se aplica ao caso, pois o fator R² é muito 
 O modelo de regressão linear se aplica ao caso,  pois o fator R² é muito baixo
 
 # Mapas do Painel de investimentos
+<img width="1314" height="740" alt="image" src="https://github.com/user-attachments/assets/1e304975-c703-42bb-854d-c2b2c05b65e2" />
 
+O link do vídeo está nos arquivos acima  
 
 
 
