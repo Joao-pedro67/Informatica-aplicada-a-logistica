@@ -54,7 +54,19 @@ No final, consegui perceber melhor a evolução entre trabalhar com uma planilha
 # Gráfico de dispersão resultante (prova)
 <img width="545" height="330" alt="image" src="https://github.com/user-attachments/assets/a2d331db-f4e3-475e-abdc-686ffce5e35e" />
 
+a) Acesse o link:   https://repositorio.seade.gov.br/dataset/seade-nupcialidade
+e faça o download de arquivos referentes à Nupcialidade
+b) Elaborar um modelo de regressão linear simples com os dados referentes a: idade média dos
+homens ao casar (x) e Idade média das mulheres ao casar(y)    c) Poste em seu Github o gráfico de dispersão resultante    d) Assinale a(s) alternativa(s) correta(s), com base no modelo de regressão linear resultante
+(4 Pontos)
 
+O modelo de regressão linear não se aplica ao caso, pois o fator R² é próximo de 1
+
+O modelo de regressão linear se aplica ao caso, pois o fator R² é próximo de 1
+
+O modelo de regressão linear não se aplica ao caso, pois o fator R² é muito baixo
+
+O modelo de regressão linear se aplica ao caso,  pois o fator R² é muito baixo
 
 
 
