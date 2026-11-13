@@ -51,6 +51,9 @@ Essa atividade foi importante porque reuniu várias coisas que eu já tinha apre
 
 No final, consegui perceber melhor a evolução entre trabalhar com uma planilha simples no Excel e depois transformar esses mesmos dados em gráficos e relatórios mais interativos no Power BI.
 
+# Gráfico de dispersão resultante (prova)
+<img width="545" height="330" alt="image" src="https://github.com/user-attachments/assets/a2d331db-f4e3-475e-abdc-686ffce5e35e" />
+
 
 
 
